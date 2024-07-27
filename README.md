@@ -1,4 +1,4 @@
-# CVIP-Fees-Management-System
+# Fees-Management-System
 Phase 1: Golden Task
 
 Fee Management System
